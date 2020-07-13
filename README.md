@@ -8,8 +8,8 @@
 1. Command: #00CD00
 
 ##### Font ( Choose one ):
-Monospace Regular 9pt
-[Fira code](https://github.com/tonsky/FiraCode) bold 10pt 
+* Monospace Regular 9pt
+* [Fira code](https://github.com/tonsky/FiraCode) bold 10pt 
 
 ##### Terminal ( Oh my zsh ):
 * Bash
